@@ -1,7 +1,4 @@
 
--- basdatfood.sql
--- DDL untuk seluruh relasi skema BasdatFood
-
 CREATE TABLE IF NOT EXISTS pengguna (
     username VARCHAR(20) NOT NULL,
     email VARCHAR(40) NOT NULL,
